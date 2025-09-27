@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Arsha
+Template Name: CloudHub
 Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-Author: BootstrapMade.com
+Author: Ghalib
 License: https://bootstrapmade.com/license/
